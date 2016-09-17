@@ -1,7 +1,11 @@
 .left-side{
-    background:blue;
+     background: #e6e6e6;
+     color: #14346c;
+     padding:100px;
 }
 
-.right-side{background:green;
-
+.right-side{
+     background: #14346c;
+     color:#e6e6e6;
+     padding:100px;
 }
