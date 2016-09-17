@@ -1,26 +1,19 @@
-
-.no-padding{
-    margin-left:0px;
-    margin-right:0px;
+.no-gutters{
+    margin-right: 0;
+  margin-left: 0;
+  padding-left:0;
+  padding-right:0;
 }
 
 .left-side{
      background: #e6e6e6;
      color: #14346c;
-     padding-left:0px;
-     padding-right:0px;
-     margin-left:0px;
-     margin-right:0px;
   
 }
 
 .right-side{
      background: #14346c;
      color:#e6e6e6;
-     padding-left:0px;
-     padding-right:0px;
-     margin-left:0px;
-     margin-right:0px;
   
     
 }
