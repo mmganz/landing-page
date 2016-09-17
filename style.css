@@ -1,4 +1,4 @@
-.*{
+* {
     outline:red;
     
 }
@@ -6,12 +6,14 @@
 .left-side{
      background: #e6e6e6;
      color: #14346c;
+     padding-left:0px;
   
 }
 
 .right-side{
      background: #14346c;
      color:#e6e6e6;
+     padding-left:0px;
   
     
 }
