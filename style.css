@@ -1,4 +1,9 @@
 .left-side{
     background: #e6e6e6;
     color: #14346c;
+    width:100%;
+}
+
+.right-side{
+    width:100%;
 }
