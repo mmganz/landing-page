@@ -2,8 +2,14 @@
     background: #e6e6e6;
     color: #14346c;
     width:100%;
+    padding:0px;
+    padding-right: 0px;
+    padding-left: 0px;
 }
 
 .right-side{
     width:100%;
+    padding:0px;
+    padding-right: 0px;
+    padding-left: 0px;
 }
